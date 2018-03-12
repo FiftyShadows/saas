@@ -1,0 +1,5 @@
+[
+    { "label" : "状态" , "value" : "status" },
+    { "label" : "类型" , "value" : "type" },
+    { "label" : "受理人" , "value" : "acceptorName" }
+]

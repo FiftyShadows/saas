@@ -1,0 +1,8 @@
+[
+    {"label":"工单ID","value":"id"},
+    {"label":"工单优先级","value":"priority"},
+    {"label":"工单创建人","value":"creatorName"},
+    {"label":"创建时间","value":"createTime"},
+    {"label":"更新时间","value":"modifyTime"},
+    {"label":"工单内容","value":"content"}
+]

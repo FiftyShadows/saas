@@ -1,0 +1,13 @@
+[
+    {"label":"联系人姓名","value":"parentName"},
+    {"label":"联系人电话","value":"parentMobile"},
+    {"label":"联系人QQ","value":"qqNumber"},
+    {"label":"联系人邮箱","value":"email"},
+    {"label":"客户来源","value":"channel"},
+    {"label":"机构类型","value":"type"},
+    {"label":"最终来源","value":"secondChannelName"},
+    {"label":"联系状态","value":"contactStateName"},
+    {"label":"机构规模","value":"orgSizeName"},
+    {"label":"姓名","value":"name"},
+    {"label":"备注","value":"remark"}
+]

@@ -1,0 +1,7 @@
+[
+    { "key" : "0" , "value" : "作废" , "type" : "gray" },
+    { "key" : "3" , "value" : "完结" , "type" : "green" },
+    { "key" : "4" , "value" : "回复"  },
+    { "key" : "5" , "value" : "转交" , "type" : "red" },
+    { "key" : "6" , "value" : "重新开启" , "type" : "yellow" }
+]
